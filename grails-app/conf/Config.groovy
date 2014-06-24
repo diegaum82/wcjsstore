@@ -122,7 +122,6 @@ log4j = {
 grails.plugin.springsecurity.userLookup.userDomainClassName = 'wcjsstore.Customer'
 grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'wcjsstore.CustomerAuthority'
 grails.plugin.springsecurity.authority.className = 'wcjsstore.Authority'
-
 grails.plugin.springsecurity.securityConfigType = SecurityConfigType.InterceptUrlMap
 grails.plugin.springsecurity.interceptUrlMap = [
 	'/logout/**': ['IS_AUTHENTICATED_ANONYMOUSLY'],
@@ -132,7 +131,9 @@ grails.plugin.springsecurity.interceptUrlMap = [
 	'/css/**': ['IS_AUTHENTICATED_ANONYMOUSLY'],
 	'/images/**': ['IS_AUTHENTICATED_ANONYMOUSLY'],
 	//Roles
-	'/**':['IS_AUTHENTICATED_ANONYMOUSLY'],
+	'/user/**':['ROLE_ADMIN', 'IS_AUTHENTICATED_FULLY'],
+	'/role/**':['ROLE_ADMIN', 'IS_AUTHENTICATED_FULLY'],
+	'/**':['ROLE_ADMIN', 'IS_AUTHENTICATED_FULLY'],
 	
 ]
 

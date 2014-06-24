@@ -1,455 +1,720 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>John Sculley</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet" type="text/css" />
-		<!--[if lte IE 8]><script src="${request.contextPath}/jssite/js/html5shiv.js"></script><![endif]-->
-		<script src="${request.contextPath}/jssite/js/jquery.min.js"></script>
-		<script src="${request.contextPath}/jssite/js/jquery.dropotron.min.js"></script>
-		<script src="${request.contextPath}/jssite/js/skel.min.js"></script>
-		<script src="${request.contextPath}/jssite/js/skel-panels.min.js"></script>
-		<script src="${request.contextPath}/jssite/js/init.js"></script>
-		
-			<link rel="stylesheet" href="${request.contextPath}/jssite/css/skel-noscript.css" />
-			<link rel="stylesheet" href="${request.contextPath}/jssite/css/style.css" />
-			<link rel="stylesheet" href="${request.contextPath}/jssite/css/style-desktop.css" />
-			<link rel="stylesheet" href="${request.contextPath}/jssite/css/style-noscript.css" />
-		
-		
-		 
-		<!--[if lte IE 8]><link rel="stylesheet" href="${request.contextPath}/jssite/css/ie8.css" /><![endif]-->
-	</head>
-	<body class="homepage">
+<!DOCTYPE html>
+<html class="html">
+<head>
 
-		<!-- Header -->
-			<div id="header">
-						
-				<!-- Inner -->
-					<div class="inner">
-						<header>
-							<h1><a href="#" id="logo">John Sculley</a></h1>
-							<hr />
-							<span class="byline">every great journey has a beginning</span>
-						</header>
-						<footer>
-							<a href="#banner" class="button circled scrolly">Start</a>
-						</footer>
-					</div>
-				
-				<!-- Nav -->
-					<nav id="nav">
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							
-							<li>
-								<span>How to Build a Business</span>
-								<ul>
-									<li><a href="#">Video Learning Series</a></li>
-									<li><a href="#">John's New Book</a></li>
-									<li><a href="#">John in the News & Latest Blog</a></li>
-									<li>
-										<span>And a submenu &hellip;</span>
-										<ul>
-											<li><a href="#">Lorem ipsum dolor</a></li>
-											<li><a href="#">Phasellus consequat</a></li>
-											<li><a href="#">Magna phasellus</a></li>
-											<li><a href="#">Etiam dolore nisl</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							
-							<li><a href="left-sidebar.html">
-								<span></>Video Series</span></a>
-								<ul>
-									<li><a href="#">How to Build a Billion Dollar Business</a>
-										<ul>
-											<li><a href=#'>Free Chapter</a></li>
-											<li><a href=#'>Order Now</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Exploiting Failure</a>
-										<ul>
-											<li><a href=#'>Free Chapter</a></li>
-											<li><a href=#'>Order Now</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Successful Entrepeneurs</a>
-									<ul>
-											<li><a href=#'>Free Chapter</a></li>
-											<li><a href=#'>Order Now</a></li>
-										</ul>
-									</li>
-								</ul>
-							
-							</li>
-							<li><a href="right-sidebar.html">My New Book</a>
-								<ul>
-									<li><a href="#">Hardcover</a>
-										<ul>
-											<li><a href=#'>Order Now</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Kindle</a>
-										<ul>
-											<li><a href=#'>Order Now</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Audio</a>
-										<ul>
-											<li><a href=#'>Order Now</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li><a href="no-sidebar.html">Sculley News</a></li>
-						</ul>
-					</nav>
 
+<script
+	src="${request.contextPath}/site/scripts/museredirect.js?236897542"
+	type="text/javascript"></script>
+
+<script type="text/javascript">
+	Muse.Redirect.redirect('desktop', '', 'phone/index.html', '');
+</script>
+
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="generator" content="7.0.313.244" />
+<title>John Sculley Portal V1</title>
+<link media="only screen and (max-device-width: 370px)" rel="alternate"
+	href="http://JohnSculley.com/phone/index.html" />
+<!-- CSS -->
+<link rel="stylesheet" type="text/css"
+	href="${request.contextPath}/site/css/site_global.css?3937220144" />
+<link rel="stylesheet" type="text/css"
+	href="${request.contextPath}/site/css/index.css?4114016427"
+	id="pagesheet" />
+<!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="${request.contextPath}/site/css/iefonts_index.css?3810874747"/>
+  <![endif]-->
+<!-- Other scripts -->
+<script type="text/javascript">
+	document.documentElement.className += ' js';
+	var __adobewebfontsappname__ = "muse";
+</script>
+<!-- JS includes -->
+<script type="text/javascript">
+	document
+			.write('\x3Cscript src="'
+					+ (document.location.protocol == 'https:' ? 'https:'
+							: 'http:')
+					+ '//webfonts.creativecloud.com/open-sans-condensed:n3,n7:all;ubuntu-condensed:n4:all;open-sans:n3,n4:all.js" type="text/javascript">\x3C/script>');
+</script>
+
+<!-- Login Modal -->
+<script type="text/javascript" src="${request.contextPath}/modal/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="${request.contextPath}/modal/js/jquery.leanModal.min.js"></script>
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
+<link type="text/css" rel="stylesheet" href="${request.contextPath}/modal/css/style.css" />
+<script
+	src="${request.contextPath}/modal/js/leanModal-modified-for-onload.js"
+	type="text/javascript"></script>
+
+</head>
+<body>
+
+	<div class="clearfix" id="page">
+		<!-- column -->
+		<div class="position_content" id="page_position_content">
+			<div class="pinned-colelem" id="u14800">
+				<!-- simple frame -->
 			</div>
-			
-		<!-- Banner -->
-			<div id="banner">
-				<h2>Hi. You're looking at <strong>John Sculley Project</strong>.</h2>
-				<span class="byline">
-					A responsive portal by <a href="http://www.webcleats.com/">Webcleats</a>.
-					Built on <a href="http://skeljs.org">skelJS</a> and released under the <a href="http://html5up.net/license/">CCA</a> license.
-				</span>
-				
-				<h1>
-					<ul>
-					<li>App version: <g:meta name="app.version"/></li>
-					<li>Grails version: <g:meta name="app.grails.version"/></li>
-					<li>Groovy version: ${GroovySystem.getVersion()}</li>
-					<li>JVM version: ${System.getProperty('java.version')}</li>
-					<li>Reloading active: ${grails.util.Environment.reloadingAgentEnabled}</li>
-					<li>Controllers: ${grailsApplication.controllerClasses.size()}</li>
-					<li>Domains: ${grailsApplication.domainClasses.size()}</li>
-					<li>Services: ${grailsApplication.serviceClasses.size()}</li>
-					<li>Tag Libraries: ${grailsApplication.tagLibClasses.size()}</li>
-					</ul>
-				</h1>
-				
-				<div id="controller-list" role="navigation">
-				<h2>Available Controllers:</h2>
-				<ul>
-					<g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName } }">
-						<li class="controller"><g:link controller="${c.logicalPropertyName}">${c.fullName}</g:link></li>
-					</g:each>
-				</ul>
-			</div>
-				
-			</div>
-
-			
-
-		<!-- Carousel -->
-			<div class="carousel">
-				<div class="reel">
-
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Bueller-III-351975087" class="image featured"><img src="${request.contextPath}/jssite/images/pic01.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Pulvinar sagittis congue</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Disco-351602759" class="image featured"><img src="${request.contextPath}/jssite/images/pic02.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Fermentum sagittis proin</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/The-Patina-of-Time-and-Tide-352128094" class="image featured"><img src="${request.contextPath}/jssite/images/pic03.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Sed quis rhoncus placerat</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Cityparts-XVIII-350427779" class="image featured"><img src="${request.contextPath}/jssite/images/pic04.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Ultrices urna sit lobortis</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Vine-Country-381350120" class="image featured"><img src="${request.contextPath}/jssite/images/pic05.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Varius magnis sollicitudin</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Bueller-III-351975087" class="image featured"><img src="${request.contextPath}/jssite/images/pic01.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Pulvinar sagittis congue</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Disco-351602759" class="image featured"><img src="${request.contextPath}/jssite/images/pic02.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Fermentum sagittis proin</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/The-Patina-of-Time-and-Tide-352128094" class="image featured"><img src="${request.contextPath}/jssite/images/pic03.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Sed quis rhoncus placerat</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Cityparts-XVIII-350427779" class="image featured"><img src="${request.contextPath}/jssite/images/pic04.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Ultrices urna sit lobortis</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-				
-					<article>
-						<a href="http://mdomaradzki.deviantart.com/art/Vine-Country-381350120" class="image featured"><img src="${request.contextPath}/jssite/images/pic05.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">Varius magnis sollicitudin</a></h3>
-						</header>
-						<p>Commodo id natoque malesuada sollicitudin elit suscipit magna.</p>							
-					</article>
-
-				</div>
-			</div>
-			
-		<!-- Main -->
-			<div class="wrapper style2">
-
-				<article id="main" class="container special">
-					<a href="http://mdomaradzki.deviantart.com/art/Planet-Bronte-339258500" class="image featured"><img src="${request.contextPath}/jssite/images/pic06.jpg" alt="" /></a>
-					<header>
-						<h2><a href="#">Sed massa imperdiet magnis</a></h2>
-						<span class="byline">
-							Sociis aenean eu aenean mollis mollis facilisis primis ornare penatibus aenean. Cursus ac enim 
-							pulvinar curabitur morbi convallis. Lectus malesuada sed fermentum dolore amet.
-						</span>
-					</header>
-					<p>
-						Commodo id natoque malesuada sollicitudin elit suscipit. Curae suspendisse mauris posuere accumsan massa 
-						posuere lacus convallis tellus interdum. Amet nullam fringilla nibh nulla convallis ut venenatis purus 
-						sit arcu sociis. Nunc fermentum adipiscing tempor cursus nascetur adipiscing adipiscing. Primis aliquam 
-						mus lacinia lobortis phasellus suscipit. Fermentum lobortis non tristique ante proin sociis accumsan 
-						lobortis. Auctor etiam porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum 
-						consequat integer interdum integer purus sapien. Nibh eleifend nulla nascetur pharetra commodo mi augue 
-						interdum tellus. Ornare cursus augue feugiat sodales velit lorem. Semper elementum ullamcorper lacinia 
-						natoque aenean scelerisque.
-					</p>
-					<footer>
-						<a href="#" class="button">Continue Reading</a>
-					</footer>
-				</article>
-
-			</div>
-
-		<!-- Features -->
-			<div class="wrapper style1">
-				
-				<section id="features" class="container special">
-					<header>
-						<h2>Morbi ullamcorper et varius leo lacus</h2>
-						<span class="byline">Ipsum volutpat consectetur orci metus consequat imperdiet duis integer semper magna.</span>
-					</header>
-					<div class="row">
-						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Bueller-VII-351975126" class="image featured"><img src="${request.contextPath}/jssite/images/pic07.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Gravida aliquam penatibus</a></h3>
-							</header>
-							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-							</p>
-						</article>
-						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Home-Bound-Train-II-338912191" class="image featured"><img src="${request.contextPath}/jssite/images/pic08.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Sed quis rhoncus placerat</a></h3>
-							</header>
-							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-							</p>
-						</article>
-						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Up-is-Down-325005102" class="image featured"><img src="${request.contextPath}/jssite/images/pic09.jpg" alt="" /></a>
-							<header>
-								<h3><a href="#">Magna laoreet et aliquam</a></h3>
-							</header>
-							<p>
-								Amet nullam fringilla nibh nulla convallis tique ante proin sociis accumsan lobortis. Auctor etiam
-								porttitor phasellus tempus cubilia ultrices tempor sagittis. Nisl fermentum consequat integer interdum.
-							</p>
-						</article>
-					</div>
-				</section>
-
-			</div>
-
-		<!-- Footer -->
-			<div id="footer">
-				<div class="container">
-					<div class="row">
-						
-						<!-- Tweets -->
-							<section class="4u">
-								<header>
-									<h2 class="fa fa-twitter circled solo"><span>Tweets</span></h2>
-								</header>
-								<ul class="divided">
-									<li>
-										<article class="tweet">
-											Amet nullam fringilla nibh nulla convallis tique ante sociis accumsan.
-											<span class="timestamp">5 minutes ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="tweet">
-											Hendrerit rutrum quisque.
-											<span class="timestamp">30 minutes ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="tweet">
-											Curabitur donec nulla massa laoreet nibh. Lorem praesent montes.
-											<span class="timestamp">3 hours ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="tweet">
-											Lacus natoque cras rhoncus curae dignissim ultricies. Convallis orci aliquet.
-											<span class="timestamp">5 hours ago</span>
-										</article>
-									</li>
-								</ul>
-							</section>
-
-						<!-- Posts -->
-							<section class="4u">
-								<header>
-									<h2 class="fa fa-file circled solo"><span>Posts</span></h2>
-								</header>
-								<ul class="divided">
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Nisl fermentum integer</a></h3>
-											</header>
-											<span class="timestamp">3 hours ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Phasellus portitor lorem</a></h3>
-											</header>
-											<span class="timestamp">6 hours ago</span>
-										</article>
-									</li>
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Magna tempus consequat</a></h3>
-											</header>
-											<span class="timestamp">Yesterday</span>
-										</article>
-									</li>
-									<li>
-										<article class="post stub">
-											<header>
-												<h3><a href="#">Feugiat lorem ipsum</a></h3>
-											</header>
-											<span class="timestamp">2 days ago</span>
-										</article>
-									</li>
-								</ul>
-							</section>
-
-						<!-- Photos -->
-							<section class="4u">
-								<header>
-									<h2 class="fa fa-camera circled solo"><span>Photos</span></h2>
-								</header>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Air-Lounge-385212062" class="image full"><img src="${request.contextPath}/jssite/images/pic10.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Paris-City-Streets-II-382623606" class="image full"><img src="${request.contextPath}/jssite/images/pic11.jpg" alt="" /></a>
-									</div>
-								</div>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Trainride-Visions-383309985" class="image full"><img src="${request.contextPath}/jssite/images/pic12.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Paris-Metro-382623851" class="image full"><img src="${request.contextPath}/jssite/images/pic13.jpg" alt="" /></a>
-									</div>
-								</div>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Cliffs-of-Coogee-II-366961860" class="image full"><img src="${request.contextPath}/jssite/images/pic14.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="http://mdomaradzki.deviantart.com/art/Stormy-Coast-VII-366561367" class="image full"><img src="${request.contextPath}/jssite/images/pic15.jpg" alt="" /></a>
-									</div>
-								</div>
-							</section>
-
-					</div>
-					<hr />
-					<div class="row">
-						<div class="12u">
-							
-							<!-- Contact -->
-								<section class="contact">
-									<header>
-										<h3>SOCIAL MEDIA</h3>
-									</header>
-									<p>JOIN THE BUZZ</p>
-									<ul class="icons">
-										<li><a href="https://twitter.com/search?q=John%20Sculley&src=typd" class="fa fa-twitter solo"><span>Twitter</span></a></li>
-										<li><a href="https://www.facebook.com/john.sculley.35?fref=ts" class="fa fa-facebook solo"><span>Facebook</span></a></li>
-										<li><a href="https://plus.google.com/111447862662838332740/posts" class="fa fa-google-plus solo"><span>Google+</span></a></li>
-										<li><a href="#" class="fa fa-pinterest solo"><span>Pinterest</span></a></li>
-										<li><a href="#" class="fa fa-dribbble solo"><span>Dribbble</span></a></li>
-										<li><a href="https://www.linkedin.com/profile/view?trk=contacts-contacts-list-contact_name-0&id=274575141" class="fa fa-linkedin solo"><span>Linkedin</span></a></li>
-									</ul>
-								</section>
-							
-							<!-- Copyright -->
-								<div class="copyright">
-									<ul class="menu">
-										<li>&copy; John Sculley. All rights reserved.</li>
-										<li>Design: <a href="http://webcleats.com/">Webcleats</a></li>
-									</ul>
-								</div>
-							
-						</div>
+			<a class="anchor_item colelem" id="main_page"></a>
+			<div class="clearfix colelem" id="pu14798">
+				<!-- group -->
+				<a class="nonblock nontext anim_swing" id="u14798"
+					href="index.html#main_page">
+					<!-- rasterized frame -->
+					<img id="u14798_img" src="${request.contextPath}/site/images/js_logo2-u14798.png" alt=""
+					width="237" height="99" />
+				</a>
+				<div class="PamphletWidget clearfix widget_invisible"
+					id="pamphletu14801">
 					
+			
+					<!-- none box -->
+					<div class="popup_anchor" id="u14812popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u14812">
+							<!-- stack box -->
+							<div class="Container invi rounded-corners clearfix grpelem"
+								id="u14813">
+	
+								<div class="grpelem" id="u14834">
+									<!-- simple frame -->
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					
+					<div class="ThumbGroup clearfix grpelem" id="u14802">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element clearfix" id="u14803">
+								<!-- group -->
+								<div class="clearfix grpelem" id="u14804-4">
+									<!-- content -->
+									<p>LOGIN</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					
+					
+					
+				</div>
+			</div>
+			
+			
+			
+			<a class="nonblock nontext anim_swing clearfix pinned-colelem"
+				id="u14791-4" href="index.html#video">
+				<!-- content -->
+				<p>&nbsp;VIDEO SERIES</p>
+			</a> <a class="nonblock nontext anim_swing clearfix pinned-colelem"
+				id="u14948-4" href="index.html#book">
+				<!-- content -->
+				<p>MY NEW BOOK</p>
+			</a> <a class="nonblock nontext anim_swing clearfix pinned-colelem"
+				id="u14792-4" href="index.html#news">
+				<!-- content -->
+				<p>SCULLEY NEWS</p>
+			</a> <a class="nonblock nontext anim_swing clearfix pinned-colelem"
+				id="u14861-4" href="index.html#social">
+				<!-- content -->
+				<p>SOCIAL MEDIA</p>
+			</a> <a class="nonblock nontext anim_swing clearfix pinned-colelem"
+				id="u14786-4" href="index.html#speaks">
+				<!-- content -->
+				<p>PUBLIC SPEAKING</p>
+			</a>
+			<div class="pinned-colelem" id="u14790">
+				<!-- simple frame -->
+			</div>
+			<div class="clip_frame se_invi" id="u14793">
+				<!-- image -->
+				<img class="block" id="u14793_img" src="${request.contextPath}/site/images/just_pointer2.png"
+					alt="" width="102" height="14" />
+			</div>
+			<div class="pinned-colelem" id="u14884">
+				<!-- simple frame -->
+			</div>
+			
+			
+			<div class="clearfix colelem" id="pu14945">
+				<!-- group -->
+				<div class="clip_frame grpelem" id="u14945">
+					<!-- image -->
+					<img class="block" id="u14945_img" src="${request.contextPath}/site/images/js_heroc.jpg" alt=""
+						width="1160" height="752" />
+				</div>
+				<div class="grpelem" id="u15355">
+					<!-- simple frame -->
+				</div>
+				<a
+					class="nonblock nontext Button anim_swing gradient rounded-corners clearfix grpelem"
+					id="buttonu15338" href="index.html#video">
+					<!-- container box -->
+					<div class="clearfix grpelem" id="u15341-4">
+						<!-- content -->
+						<p>LEARN MORE</p>
+					</div>
+				</a> <a
+					class="nonblock nontext Button anim_swing gradient rounded-corners clearfix grpelem"
+					id="buttonu15343" href="index.html#book">
+					<!-- container box -->
+					<div class="clearfix grpelem" id="u15344-4">
+						<!-- content -->
+						<p>BUY NOW</p>
+					</div>
+				</a> <a
+					class="nonblock nontext Button anim_swing gradient rounded-corners clearfix grpelem"
+					id="buttonu15349" href="index.html#news">
+					<!-- container box -->
+					<div class="clearfix grpelem" id="u15351-4">
+						<!-- content -->
+						<p>READ &amp; WATCH</p>
+					</div>
+				</a>
+				<div class="clearfix grpelem" id="u15315-4">
+					<!-- content -->
+					<p>FORMER CEO OF PEPSI AND APPLE, TV CO&#45;HOST, ENTREPRENEUR
+						AND MENTOR</p>
+				</div>
+			</div>
+			<div class="clearfix colelem" id="pu14941">
+				<!-- group -->
+				<div class="clip_frame grpelem" id="u14941">
+					<!-- image -->
+					<img class="block" id="u14941_img"
+						src="${request.contextPath}/site/images/videoseries_v11_3.jpg"
+						alt="" width="1160" height="873" />
+				</div>
+				<a class="anchor_item grpelem" id="video"></a>
+				<div class="PamphletWidget clearfix widget_invisible grpelem"
+					id="pamphletu16645">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u16649">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u16651">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u16653popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u16653">
+							<!-- stack box -->
+							<div class="Container clearfix grpelem" id="u16656">
+								<!-- group -->
+								<div class="clip_frame grpelem" id="u16674">
+									<!-- image -->
+									<img class="block" id="u16674_img"
+										src="${request.contextPath}/site/images/program-page-htb2.jpg"
+										alt="" width="939" height="673" />
+								</div>
+								<div class="Button rounded-corners clearfix grpelem"
+									id="buttonu16727">
+									<!-- container box -->
+									<div class="clearfix grpelem" id="u16730-4">
+										<!-- content -->
+										<p>Login</p>
+									</div>
+								</div>
+								<a
+									class="nonblock nontext Button rounded-corners clearfix grpelem"
+									id="buttonu16747" href="checkout-htb.html">
+									<!-- container box -->
+									<div class="clearfix grpelem" id="u16748-4">
+										<!-- content -->
+										<p>Buy Now</p>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix"
+							id="u16665">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u16666-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="PamphletWidget clearfix widget_invisible grpelem"
+					id="pamphletu16967">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u16983">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u16984">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u16968popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u16968">
+							<!-- stack box -->
+							<div class="Container clearfix grpelem" id="u16969">
+								<!-- group -->
+								<div class="clip_frame grpelem" id="u16976">
+									<!-- image -->
+									<img class="block" id="u16976_img"
+										src="${request.contextPath}/site/images/program-page-se.jpg"
+										alt="" width="939" height="673" />
+								</div>
+								<div class="Button rounded-corners clearfix grpelem"
+									id="buttonu16973">
+									<!-- container box -->
+									<div class="clearfix grpelem" id="u16974-4">
+										<!-- content -->
+										<p>Login</p>
+									</div>
+								</div>
+								<a
+									class="nonblock nontext Button rounded-corners clearfix grpelem"
+									id="buttonu16970" href="checkout-htb.html">
+									<!-- container box -->
+									<div class="clearfix grpelem" id="u16972-4">
+										<!-- content -->
+										<p>Buy Now</p>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix"
+							id="u16978">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u16979-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="PamphletWidget clearfix widget_invisible grpelem"
+					id="pamphletu17022">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u17038">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u17039">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u17023popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u17023">
+							<!-- stack box -->
+							<div class="Container clearfix grpelem" id="u17024">
+								<!-- group -->
+								<div class="clip_frame grpelem" id="u17031">
+									<!-- image -->
+									<img class="block" id="u17031_img"
+										src="${request.contextPath}/site/images/program-page-ef2.jpg"
+										alt="" width="939" height="673" />
+								</div>
+								<div class="Button rounded-corners clearfix grpelem"
+									id="buttonu17028">
+									<!-- container box -->
+									<div class="clearfix grpelem" id="u17029-4">
+										<!-- content -->
+										<p>Login</p>
+									</div>
+								</div>
+								<a
+									class="nonblock nontext Button rounded-corners clearfix grpelem"
+									id="buttonu17025" href="checkout-htb.html">
+									<!-- container box -->
+									<div class="clearfix grpelem" id="u17027-4">
+										<!-- content -->
+										<p>Buy Now</p>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix"
+							id="u17033">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u17034-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="PamphletWidget clearfix widget_invisible grpelem"
+					id="pamphletu17052">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u17058">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u17059">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u17060popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u17060">
+							<!-- stack box -->
+							<div class="Container clearfix grpelem" id="u17061">
+								<!-- column -->
+								<div class="clearfix colelem" id="pbuttonu17062">
+									<!-- group -->
+									<div class="Button rounded-corners clearfix grpelem"
+										id="buttonu17062">
+										<!-- container box -->
+										<div class="clearfix grpelem" id="u17063-4">
+											<!-- content -->
+											<p>Login</p>
+										</div>
+									</div>
+									<a
+										class="nonblock nontext Button rounded-corners clearfix grpelem"
+										id="buttonu17067" href="checkout-htb.html">
+										<!-- container box -->
+										<div class="clearfix grpelem" id="u17069-4">
+											<!-- content -->
+											<p>Buy Now</p>
+										</div>
+									</a>
+								</div>
+								<div class="clearfix colelem" id="u17078-6">
+									<!-- content -->
+									<p id="u17078-2">New Entrepreneurs</p>
+									<p id="u17078-4">How They Are Doing It</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix"
+							id="u17075">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u17076-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="PamphletWidget clearfix widget_invisible grpelem"
+					id="pamphletu17079">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u17099">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u17100">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u17082popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u17082">
+							<!-- stack box -->
+							<div class="Container clearfix grpelem" id="u17083">
+								<!-- column -->
+								<div class="clearfix colelem" id="pbuttonu17089">
+									<!-- group -->
+									<div class="Button rounded-corners clearfix grpelem"
+										id="buttonu17089">
+										<!-- container box -->
+										<div class="clearfix grpelem" id="u17091-4">
+											<!-- content -->
+											<p>Login</p>
+										</div>
+									</div>
+									<a
+										class="nonblock nontext Button rounded-corners clearfix grpelem"
+										id="buttonu17084" href="checkout-htb.html">
+										<!-- container box -->
+										<div class="clearfix grpelem" id="u17086-4">
+											<!-- content -->
+											<p>Buy Now</p>
+										</div>
+									</a>
+								</div>
+								<div class="clearfix colelem" id="u17105-6">
+									<!-- content -->
+									<p id="u17105-2">The Real Apple Story</p>
+									<p id="u17105-4">What Really Happened</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix"
+							id="u17092">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u17093-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
+			<div class="clearfix colelem" id="pu14796">
+				<!-- group -->
+				<div class="clip_frame grpelem" id="u14796">
+					<!-- image -->
+					<img class="block" id="u14796_img"
+						src="${request.contextPath}/site/images/main-comp_v11_2d.jpg"
+						alt="" width="1160" height="868" />
+				</div>
+				<a class="nonblock nontext grpelem" id="u14943"
+					href="checkout-book.html">
+					<!-- simple frame -->
+				</a> <a class="anchor_item grpelem" id="book"></a>
+				<div class="PamphletWidget clearfix widget_invisible grpelem"
+					id="pamphletu15592">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u15610">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u15613">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u15593popup">
+						<div class="ContainerGroup rgba-background clearfix" id="u15593">
+							<!-- stack box -->
+							<div class="Container invi clearfix grpelem" id="u15596">
+								<!-- group -->
+								<div class="clip_frame grpelem" id="u15621">
+									<!-- image -->
+									<img class="block" id="u15621_img"
+										src="${request.contextPath}/site/images/book2video.jpg" alt=""
+										width="961" height="560" />
+								</div>
+								<a class="nonblock nontext grpelem" id="u15624"
+									href="amazon.html" target="_blank">
+									<!-- simple frame -->
+								</a> <a class="nonblock nontext grpelem" id="u15625"
+									href="checkout-htb.html">
+									<!-- simple frame -->
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element clearfix"
+							id="u15614">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u15615-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a class="nonblock nontext grpelem" id="u15642" href="audible.html"
+					target="_blank">
+					<!-- simple frame -->
+				</a>
+			</div>
+			<a class="anchor_item colelem" id="news"></a>
+			<div class="clip_frame colelem" id="u14938">
+				<!-- image -->
+				<img class="block" id="u14938_img"
+					src="${request.contextPath}/site/images/main-comp_v11_5a.jpg"
+					alt="" width="1160" height="850" />
+			</div>
+			<a class="anchor_item colelem" id="social"></a>
+			<div class="clearfix colelem" id="pu14787">
+				<!-- group -->
+				<div class="clip_frame grpelem" id="u14787">
+					<!-- image -->
+					<img class="block" id="u14787_img"
+						src="${request.contextPath}/site/images/main_4_11a.jpg" alt=""
+						width="1160" height="850" />
+				</div>
+				<a class="nonblock nontext grpelem" id="u14882"
+					href="http://www.sculleyspeaks.com/blog/" target="_blank">
+					<!-- simple frame -->
+				</a> <a class="nonblock nontext grpelem" id="u14842"
+					href="https://www.facebook.com/john.sculley.35?fref=ts"
+					target="_blank" title="Facebook">
+					<!-- simple frame -->
+				</a> <a class="nonblock nontext grpelem" id="u14880"
+					href="https://www.linkedin.com/profile/view?trk=contacts-contacts-list-contact_name-0&amp;id=274575141"
+					target="_blank" title="Facebook">
+					<!-- simple frame -->
+				</a> <a class="nonblock nontext grpelem" id="u14886"
+					href="https://www.youtube.com/user/SculleySpeaks/" target="_blank">
+					<!-- simple frame -->
+				</a> <a class="nonblock nontext grpelem" id="u14840"
+					href="https://twitter.com/search?q=John%20Sculley&amp;src=typd"
+					target="_blank">
+					<!-- simple frame -->
+				</a> <a class="nonblock nontext grpelem" id="u14944"
+					href="https://plus.google.com/111447862662838332740/posts"
+					target="_blank" title="Google+">
+					<!-- simple frame -->
+				</a>
+			</div>
+			<div class="clearfix colelem" id="pu14936">
+				<!-- group -->
+				<div class="clip_frame grpelem" id="u14936">
+					<!-- image -->
+					<img class="block" id="u14936_img"
+						src="${request.contextPath}/site/images/main-comp_ss.jpg" alt=""
+						width="1160" height="868" />
+				</div>
+				<a class="nonblock nontext grpelem" id="u14885"
+					href="http://www.sculleyspeaks.com" target="_blank"
+					title="SculleySpeaks.com">
+					<!-- simple frame -->
+				</a>
+				<div class="PamphletWidget clearfix grpelem" id="pamphletu14843">
+					<!-- none box -->
+					<div class="ThumbGroup clearfix grpelem" id="u14844">
+						<!-- none box -->
+						<div class="popup_anchor">
+							<div class="Thumb popup_element" id="u14845">
+								<!-- simple frame -->
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor" id="u14846popup">
+						<div class="ContainerGroup clearfix" id="u14846">
+							<!-- stack box -->
+							<div class="Container invi clearfix grpelem" id="u14847">
+								<!-- group -->
+								<div class="clip_frame grpelem" id="u14848">
+									<!-- image -->
+									<img class="block" id="u14848_img"
+										src="${request.contextPath}/site/images/contact-form.jpg"
+										alt="" width="562" height="313" />
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="popup_anchor">
+						<div
+							class="PamphletCloseButton PamphletLightboxPart popup_element clearfix"
+							id="u14857">
+							<!-- group -->
+							<div class="clearfix grpelem" id="u14858-4">
+								<!-- content -->
+								<p>x</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a class="anchor_item grpelem" id="speaks"></a>
+			</div>
+		</div>
+	</div>
+	<div class="preload_images">
+		<img class="preload"
+			src="${request.contextPath}/site/images/u14825-17-r.png" alt="" /> <img
+			class="preload"
+			src="${request.contextPath}/site/images/u14825-17-m.png" alt="" /> <img
+			class="preload"
+			src="${request.contextPath}/site/images/u14825-17-fs.png" alt="" /> <img
+			class="preload"
+			src="${request.contextPath}/site/images/play_btn_ro.png" alt="" />
+		<!--[if lt IE 9]>
+   <img class="preload" src="${request.contextPath}/site/images/u15338-r-grad.png" alt=""/>
+   <img class="preload" src="${request.contextPath}/site/images/u15338-grad.png" alt=""/>
+   <img class="preload" src="${request.contextPath}/site/images/u15343-r-grad.png" alt=""/>
+   <![endif]-->
+	</div>
+	<!-- JS includes -->
+	<script type="text/javascript">
+		if (document.location.protocol != 'https:')
+			document
+					.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+	</script>
+	<script type="text/javascript">
+		window.jQuery
+				|| document
+						.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+	</script>
+	<script
+		src="${request.contextPath}/site/scripts/museutils.js?3865766194"
+		type="text/javascript"></script>
+	<script src="${request.contextPath}/site/scripts/webpro.js?3903299128"
+		type="text/javascript"></script>
+	<script
+		src="${request.contextPath}/site/scripts/musewpslideshow.js?138381373"
+		type="text/javascript"></script>
+	<script
+		src="${request.contextPath}/site/scripts/jquery.museoverlay.js?4250894771"
+		type="text/javascript"></script>
+	<script
+		src="${request.contextPath}/site/scripts/touchswipe.js?4156838003"
+		type="text/javascript"></script>
+	<script
+		src="${request.contextPath}/site/scripts/jquery.scrolleffects.js?3937082470"
+		type="text/javascript"></script>
+	<!-- Other scripts -->
+	<script type="text/javascript">
+   		$(document).ready(function() { try {
+			Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+			Muse.Utils.prepHyperlinks(true);/* body */
+			Muse.Utils.initWidget('#widgetu14814', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu14814 */
+			Muse.Utils.initWidget('#pamphletu14801', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true}); });/* #pamphletu14801 */
+			$('#u14793').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0]},{"speed":[0.2,0],"in":[0,Infinity]}]);/* scroll effect */
+			Muse.Utils.initWidget('#pamphletu16645', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu16645 */
+			Muse.Utils.initWidget('#pamphletu16967', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu16967 */
+			Muse.Utils.initWidget('#pamphletu17022', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu17022 */
+			Muse.Utils.initWidget('#pamphletu17052', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu17052 */
+			Muse.Utils.initWidget('#pamphletu17079', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true}); });/* #pamphletu17079 */
+			Muse.Utils.initWidget('#pamphletu15592', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true}); });/* #pamphletu15592 */
+			Muse.Utils.initWidget('#pamphletu14843', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true}); });/* #pamphletu14843 */
+			Muse.Utils.showWidgetsWhenReady();/* body */
+			Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+		} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
+	</script>
 
-	</body>
+	<!-- Script Login Modal -->
+	<script type="text/javascript">
+		$("#modal_trigger").leanModal({top : 200, overlay : 0.6, closeButton: ".modal_close" });
+	
+		$(function(){
+			// Calling Login Form
+			$("#login_form").click(function(){
+				$(".social_login").hide();
+				$(".user_login").show();
+				return false;
+			});
+	
+			// Calling Register Form
+			$("#register_form").click(function(){
+				$(".social_login").hide();
+				$(".user_register").show();
+				$(".header_title").text('Register');
+				return false;
+			});
+	
+			// Going back to Social Forms
+			$(".back_btn").click(function(){
+				$(".user_login").hide();
+				$(".user_register").hide();
+				$(".social_login").show();
+				$(".header_title").text('Login');
+				return false;
+			});
+	
+		})
+	</script>
+
+   </body>
 </html>
