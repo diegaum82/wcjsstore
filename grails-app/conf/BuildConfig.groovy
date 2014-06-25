@@ -66,9 +66,13 @@ grails.project.dependency.resolution = {
         runtime ":jquery:1.11.0.2"
         runtime ":resources:1.2.7"
 		
+		compile ":mail:1.0.6"
+		
 		compile ':spring-security-core:2.0-RC3'
 		
 		compile ":spring-security-ui:1.0-RC2"
+		
+		
 		
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0.1"

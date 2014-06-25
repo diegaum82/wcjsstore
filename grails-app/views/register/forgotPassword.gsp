@@ -4,7 +4,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
        <meta name="layout" content="contentLayout" />
-   <title>Vinomis Forgot Password</title>
+   <title>John Sculley Portal Forgot Password</title>
   </head>
   <body>
     
